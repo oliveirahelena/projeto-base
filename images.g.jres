@@ -69,6 +69,21 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "mario"
     },
+    "image15": {
+        "data": "hwQQABAAAAAAAPD//w8AAADw7x7h/gAAAB8hERH+/wDwESEREf4RD/ARIRLhHxHxHxEiIuIfEfEfIRIR4v8f8e8iERHhHxHx7yIREeEfEfHvIhER4f8f8e8iERHhHxHx8CESEeIfEfHwESIi4v4RDwAfISIR/v8AAPDvHhHxAAAAAPD//w8AAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "cogumelo"
+    },
+    "image16": {
+        "data": "hwQIAAgAAAAAAgAgACIgAgAiIgIiIiIAIiIiAAAiIgIAIiACAAIAIA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "star"
+    },
+    "image17": {
+        "data": "hwQIAAgAAAAA//8A8FVVD19V9fVf///1/1VV/1////XwVVUPAP//AA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "coin"
+    },
     "anim1": {
         "namespace": "myAnimations",
         "id": "anim1",

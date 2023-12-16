@@ -721,6 +721,47 @@ f f 4 d f d d f 4 4 4 4 4 e .
 . . . f e e e d f d f . . . . 
 . . . f f f f f f f f . . . . 
 `;
+            case "image15":
+            case "cogumelo":return img`
+. . . . . f f f f f f . . . . . 
+. . . f f 1 1 e e e e f f . . . 
+. . f 1 1 1 1 2 2 2 2 1 1 f . . 
+. f 1 1 1 1 2 2 2 2 2 2 1 1 f . 
+. f 1 1 1 2 2 1 1 1 1 2 2 1 f . 
+f e 2 2 2 2 1 1 1 1 1 1 2 2 e f 
+f e 1 1 2 2 1 1 1 1 1 1 2 2 e f 
+f 1 1 1 1 2 1 1 1 1 1 1 2 2 1 f 
+f 1 1 1 1 2 2 1 1 1 1 2 2 1 1 f 
+f e 1 1 e e e e e e e e e 1 1 f 
+f e e e f f f f f f f f e e 1 f 
+. f f f 1 1 f 1 1 f 1 1 f f f . 
+. . f 1 1 1 f 1 1 f 1 1 1 f . . 
+. . f 1 1 1 1 1 1 1 1 1 1 f . . 
+. . . f 1 1 1 1 1 1 1 1 f . . . 
+. . . . f f f f f f f f . . . . 
+`;
+            case "image16":
+            case "star":return img`
+. . . 2 2 . . . 
+. . . 2 2 . . . 
+2 2 2 2 2 2 2 2 
+. 2 2 2 2 2 2 . 
+. . 2 2 2 2 . . 
+. 2 2 2 2 2 2 . 
+. 2 2 . . 2 2 . 
+2 . . . . . . 2 
+`;
+            case "image17":
+            case "coin":return img`
+. . f f f f . . 
+. f 5 5 f 5 f . 
+f 5 5 f 5 f 5 f 
+f 5 5 f 5 f 5 f 
+f 5 5 f 5 f 5 f 
+f 5 f f 5 f 5 f 
+. f 5 5 f 5 f . 
+. . f f f f . . 
+`;
         }
         return null;
     })
