@@ -84,6 +84,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "coin"
     },
+    "image18": {
+        "data": "hwQNABMAAAAAAO4A4AAAAAAAAAAA4EXuVEXu7v0PAAAATlXe7e8e8T8KAADuXuX/3d5P06MKAACxReXULdRE0zMKAAC+XuX/3eQzQzMKAABRXuXUTf6jSqMKAADuXkXu5D8eqjoKAAAAQFXkTu/xEaoKAAAA4FVVVfQf4f8KAAAAAEXuVFXk7g4PAAAAAO4A7uRO7gAAAAAAAAAAAA7gAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "peach"
+    },
     "anim1": {
         "namespace": "myAnimations",
         "id": "anim1",
