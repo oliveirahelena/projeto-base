@@ -972,6 +972,68 @@ f e e 1 1 1 e e e e 1 1 1 e e f
 . f 4 2 2 2 f 4 4 f 2 2 2 4 f . 
 . f f f f f f f f f f f f f f . 
 `;
+            case "image24":
+            case "myImage3":return img`
+................
+.......ccccc....
+.....cc11d11c...
+....c11f4d1fc...
+...c1fffffffff..
+..c1fffffffffff.
+.cfffffffffffff.
+.cffff411411ff..
+.44ff441f4f1....
+4e4ff441f4f14e..
+4e4fff4444444e..
+.444f44fe4444e..
+.ff444fffffffff.
+..ff4444ffffff..
+.ccfe444444eeee.
+cffffffcceee1e1e
+cf1111ff11f1e11e
+cfeeeff77ff7e11e
+ce11eecc77cc7ee.
+e11111e711771f..
+e11111e71177fee.
+.e111e77777fedef
+.feeeff777feeeff
+feeffffffffeeeff
+feeffffffffeeff.
+fedeeff....efff.
+feeff.......ff..
+.ff.............
+`;
+            case "image25":
+            case "myImage4":return img`
+.......ccccc....
+.....cc11d11c...
+....c11f4d1fc...
+...c1fffffffff..
+..c1fffffffffff.
+.cfffffffffffff.
+.cffff411411ff..
+.44ff441f4f1....
+4e4ff441f4f14e..
+4e4fff4444444e..
+.444f44fe4444e..
+.ff444fffffffff.
+..ff4444ffffff..
+...fe444444e....
+...ccffccee.....
+..c11eeefffc....
+.c11e11ee1ffee..
+.cfe11111e1f71e.
+.cfe11111e7f1ee.
+..cce111e1771f..
+..fffeee7777ff..
+...fff777777ff..
+..fffff7ff77fff.
+.feffffffffffdef
+.feefffff.feeeff
+.feeeef...feffff
+..feeedf..fffff.
+...fffff...ff...
+`;
         }
         return null;
     })
