@@ -884,6 +884,94 @@ f1f444444444f11111111111111111111111111111f4444444e4e4eefddddddf
 ................ffffffff.......ff.......ffffffff................
 ................................................................
 `;
+            case "image20":
+            case "myImage":return img`
+.......ccccc....
+.....cc11d11c...
+....c11f4d1fc...
+...c1fffffffff..
+..c1fffffffffff.
+.cfffffffffffff.
+.cffff411411ff..
+.44ff441f4f1....
+4e4ff441f4f14e..
+4e4fff4444444e..
+.444f44fe4444e..
+.ff444fffffffff.
+..ff4444ffffff..
+...fe4444444e...
+....cffcceee....
+...c11cfe111e...
+..cf111e11111e..
+..cff11e11111e..
+..fcff1fe111e...
+..ffcffcceee1...
+..fffccc777ff...
+..ffff77777ff...
+...ffff77fff....
+...fffffffff....
+....fffffff.....
+....eeeeefef....
+....feeeedfdf...
+....fffffffff...
+`;
+            case "image21":
+            case "myImage0":return img`
+. . . . . . . . . . . . . . . . 
+. . . . . . f f f f . . . . . . 
+. . f f f f e f f e f f . . . . 
+. f f f f 4 f f f f 4 e f . . . 
+. . f 1 f 4 f 1 e 4 4 4 e f . . 
+. . 1 1 1 f 1 1 1 e 4 4 4 f . . 
+. f 1 1 f 4 f 1 1 e 4 4 4 e f . 
+f e e 1 1 4 1 1 e 4 4 4 4 e e f 
+f e 4 4 4 4 4 4 4 4 4 4 e e e f 
+f e 1 f f f f f f f 1 e e e e f 
+. f e e 4 4 4 e e e e e e e f . 
+. . f f f f f f f f f f f f f . 
+. f f f 4 4 d d 4 4 f f 2 2 2 f 
+f 4 2 2 f 4 4 4 4 f 4 2 2 2 2 f 
+. f f 2 2 f f f f f 2 2 2 f f . 
+. . . f f f f . . f f f f . . . 
+`;
+            case "image22":
+            case "myImage1":return img`
+. . . . . . f f f f . . . . . . 
+. . f . f f f f e e f f . . . . 
+. f f f e f f f f 4 e e f . . . 
+. . 1 f 4 f 1 e 4 4 4 4 e f . . 
+. . 1 1 f 1 1 1 e 4 4 4 e f . . 
+. f 1 f 4 f 1 1 e 4 4 4 4 e f . 
+f e 1 1 4 1 1 e 4 4 4 4 4 e e f 
+f e 4 4 4 4 4 4 4 4 4 4 e e e f 
+f 1 f f f f f f 1 e e e e e e f 
+. f e e 4 4 4 e e e e e e e f . 
+. . f f f f f f f f f f f f . . 
+. . . f 4 4 4 d d 4 4 4 f . . . 
+. . . . f 4 f f f f 4 f . . . . 
+. . . . . f 4 2 2 2 f . . . . . 
+. . . . f 4 2 2 2 2 f . . . . . 
+. . . . f f f f f f f . . . . . 
+`;
+            case "image23":
+            case "myImage2":return img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . f f f f . . . . . . 
+. . . f f f 4 4 4 4 f f f . . . 
+. f f 1 1 1 f f f f 1 1 1 f f . 
+f e 1 1 1 f 1 4 4 1 f 1 1 1 e f 
+f e e 1 1 1 e e e e 1 1 1 e e f 
+. f f f f f f f f f f f f f f . 
+. f 4 2 2 2 f 4 4 f 2 2 2 4 f . 
+. f f f f f f f f f f f f f f . 
+`;
         }
         return null;
     })
