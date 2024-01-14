@@ -698,29 +698,6 @@ f7f1feee4f1f771f.........
 ....feeeeeef.............
 ....ffffffff.............
 `;
-            case "image14":
-            case "mario":return img`
-. . . . . . f f f f f . . . . 
-. . . . f f 2 2 2 d 2 f . . . 
-. . . f 2 2 e e 4 d 1 f . . . 
-. . f e 2 e e f f f f f f . . 
-. f e e e f f f f f f f f f . 
-. f d f f f 4 f 4 f 4 . . . . 
-f d e d f 4 d f d f d e e . . 
-f 4 e d f f d d d d d d d e . 
-f f 4 d f d d f 4 4 4 4 4 e . 
-. f f 4 4 d f f f f f f f . . 
-. . f e e 4 4 4 f f f f . . . 
-. . . f e e e e e 8 . . . . . 
-. . f e e 2 6 6 9 9 8 . . . . 
-. . f e e e 6 1 1 9 1 8 . . . 
-. . e 1 1 1 e 1 1 9 1 8 . . . 
-. . e 1 1 e 6 6 6 9 9 8 . . . 
-. . e 1 1 e 6 6 8 6 8 . . . . 
-. . . e e e e f e f . . . . . 
-. . . f e e e d f d f . . . . 
-. . . f f f f f f f f . . . . 
-`;
             case "image15":
             case "cogumelo":return img`
 . . . . . f f f f f f . . . . . 
@@ -1034,6 +1011,67 @@ feeff.......ff..
 ..feeedf..fffff.
 ...fffff...ff...
 `;
+            case "image14":
+            case "mario":return img`
+. . . . . . f f f f f . . . . 
+. . . . f f 2 2 2 d 2 f . . . 
+. . . f 2 2 e e 4 d 1 f . . . 
+. . f e 2 e e f f f f f f . . 
+. f e e e f f f f f f f f f . 
+. f d f f f 4 f 4 f 4 . . . . 
+f d e d f 4 d f d f d e e . . 
+f 4 e d f f d d d d d d d e . 
+f f 4 d f d d f 4 4 4 4 4 e . 
+. f f 4 4 d f f f f f f f . . 
+. . f e e 4 4 4 f f f f . . . 
+. . . f e e e e e 8 . . . . . 
+. . f e e 2 6 6 9 9 8 . . . . 
+. . f e e e 6 1 1 9 1 8 . . . 
+. . e 1 1 1 e 1 1 9 1 8 . . . 
+. . e 1 1 e 6 6 6 9 9 8 . . . 
+. . e 1 1 e 6 6 8 6 8 . . . . 
+. . . e e e e f e f . . . . . 
+. . . f e e e d f d f . . . . 
+. . . f f f f f f f f . . . . 
+`;
+            case "image26":
+            case "myImage5":return img`
+. . . . . . . f . . . . . . . . 
+. . f . . . f 4 4 f . . . f . . 
+. f 4 f . f 4 4 4 4 f . f 4 f . 
+. f 4 4 f 4 4 4 4 4 4 f 4 4 f . 
+f 4 4 4 4 4 4 4 4 4 4 4 4 4 4 f 
+f 4 4 4 f f 4 4 4 f f 4 4 4 4 f 
+f 4 4 f 4 4 f 4 f 4 4 f 4 4 4 f 
+f 4 4 4 4 4 4 4 4 4 4 4 4 4 4 f 
+. f 4 4 4 4 4 4 4 4 4 4 4 4 f . 
+. . f 4 4 4 4 4 4 4 4 4 4 f . . 
+. . . f f 4 4 4 4 4 4 f f . . . 
+. . . . . f f f f f f . . . . . 
+. . f f f . f 7 7 f f f f . . . 
+. f 7 7 7 f f 7 7 f 7 7 7 f . . 
+f 7 7 7 7 7 f 7 f 7 7 7 7 7 f . 
+f 7 7 7 7 7 f f f 7 7 7 7 7 f . 
+`;
+            case "image27":
+            case "myImage6":return img`
+. . . . . f f f f f f . . . . . 
+. . . f f 1 1 7 7 7 7 f f . . . 
+. . f 1 1 1 1 7 7 7 7 1 1 f . . 
+. f 1 1 1 1 7 7 7 7 7 7 1 1 f . 
+. f 1 1 1 7 7 1 1 1 1 7 7 1 f . 
+f 7 7 7 7 7 1 1 1 1 1 1 7 7 7 f 
+f 7 1 1 7 7 1 1 1 1 1 1 7 7 7 f 
+f 1 1 1 1 7 1 1 1 1 1 1 7 7 1 f 
+f 1 1 1 1 7 7 1 1 1 1 7 7 1 1 f 
+f 7 1 1 7 7 7 7 7 7 7 7 7 1 1 f 
+f 7 7 7 f f f f f f f f 7 7 1 f 
+. f f f 1 1 f 1 1 f 1 1 f f f . 
+. . f 1 1 1 f 1 1 f 1 1 1 f . . 
+. . f 1 1 1 1 1 1 1 1 1 1 f . . 
+. . . f 1 1 1 1 1 1 1 1 f . . . 
+. . . . f f f f f f f f . . . . 
+`;
         }
         return null;
     })
@@ -1211,6 +1249,76 @@ f e 8 6 6 6 6 6 6 9 f e f f .
 f e e 8 8 6 6 6 6 8 f e f f . 
 f e d f . 8 8 8 8 . f e f f . 
 . f f . . . . . . . . f f . . 
+`];
+            case "interrogacao":
+            case "anim3":return [img`
+. . f f f f f f f f f f f f . . 
+. f 1 1 1 4 4 4 4 4 4 4 4 e f . 
+f 1 1 f 5 5 5 5 5 5 5 5 f f e f 
+f 1 1 1 f 5 5 5 5 5 5 f 1 1 e f 
+f 1 1 1 1 f 5 5 5 5 f 1 1 1 e f 
+f 4 1 1 1 f 5 5 5 5 f 1 1 1 e f 
+f 1 1 1 1 f 5 5 5 5 f f f f e f 
+f 4 1 1 f f 5 5 5 5 f 5 5 f e f 
+f 4 f f 5 f 5 5 5 5 f 5 5 f e f 
+f 4 5 5 5 5 5 5 5 5 5 5 5 5 e f 
+f 4 f 5 5 5 5 5 5 5 5 5 5 f e f 
+f 4 f 5 5 5 5 5 5 5 5 5 5 f e f 
+f e 4 5 5 5 5 5 5 5 5 5 5 5 e f 
+f e 4 4 4 4 4 4 4 4 4 4 4 e e f 
+. f e e e e e e e e e e e e f . 
+. . f f f f f f f f f f f f . . 
+`, img`
+. . f f f f f f f f f f f f . . 
+. f 1 1 1 4 4 4 4 4 4 4 4 e f . 
+f 1 1 f f f 5 5 5 5 5 5 4 4 e f 
+f 1 1 1 1 1 f 5 5 5 5 5 5 4 e f 
+f 1 1 1 1 1 1 f 5 5 5 5 5 4 e f 
+f 4 f f 1 1 1 f 5 5 f 5 5 4 e f 
+f 1 f f 1 1 1 f 5 5 f 5 5 4 e f 
+f 4 1 1 1 1 f 5 5 5 f 5 5 4 e f 
+f 4 1 1 f f 5 5 5 5 f 5 5 4 e f 
+f 4 f f 5 5 5 5 5 5 5 5 5 4 e f 
+f 4 1 1 f 5 5 5 5 5 5 5 5 4 e f 
+f 4 1 1 f 5 5 5 5 5 5 5 5 4 e f 
+f 4 e f 5 5 5 5 5 5 5 5 4 4 e f 
+f e 4 4 4 4 4 4 4 4 4 4 4 e e f 
+. f e e e e e e e e e e e e f . 
+. . f f f f f f f f f f f f . . 
+`, img`
+. . f f f f f f f f f f f f . . 
+. f 1 1 1 4 4 4 4 4 4 4 4 e f . 
+f 1 1 5 f f f f f f f 5 4 4 e f 
+f 1 5 f 1 1 1 1 1 1 1 f 5 4 e f 
+f 1 f 1 1 1 1 1 1 1 1 1 f 4 e f 
+f 4 f 1 1 1 f f f 1 1 1 f 4 e f 
+f 1 5 f f f f f f 1 1 1 f 4 e f 
+f 4 5 5 5 f 1 1 1 1 1 f 5 4 e f 
+f 4 5 5 5 f 1 1 1 f f 5 5 4 e f 
+f 4 5 5 5 5 f f f 5 5 5 5 4 e f 
+f 4 5 5 5 f 1 1 1 f 5 5 5 4 e f 
+f 4 5 5 5 f 1 1 1 f 5 5 5 4 e f 
+f 4 4 5 5 5 f f f 5 5 5 4 4 e f 
+f e 4 4 4 4 4 4 4 4 4 4 4 e e f 
+. f e e e e e e e e e e e e f . 
+. . f f f f f f f f f f f f . . 
+`, img`
+. . f f f f f f f f f f f f . . 
+. f 1 1 1 4 4 4 4 4 4 4 4 e f . 
+f 1 1 5 5 5 5 5 5 f f f f f e f 
+f 1 5 5 5 5 5 5 f 1 1 1 1 1 e f 
+f 1 5 5 5 5 5 f 1 1 1 1 1 1 e f 
+f 4 5 5 5 f 5 f 1 1 1 f f f e f 
+f 1 5 5 5 f 5 5 f f f f f f e f 
+f 4 5 5 5 f 5 5 5 5 f 1 1 1 e f 
+f 4 5 5 5 f 5 5 5 5 f 1 1 1 e f 
+f 4 5 5 5 5 5 5 5 5 5 f f f e f 
+f 4 5 5 5 5 5 5 5 5 f 1 1 1 e f 
+f 4 5 5 5 5 5 5 5 5 f 1 1 1 e f 
+f 4 4 5 5 5 5 5 5 5 5 f f f e f 
+f e 4 4 4 4 4 4 4 4 4 4 4 e e f 
+. f e e e e e e e e e e e e f . 
+. . f f f f f f f f f f f f . . 
 `];
         }
         return null;
